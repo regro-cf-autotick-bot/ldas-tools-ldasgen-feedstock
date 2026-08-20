@@ -4,7 +4,7 @@ context:
   name: ldas-tools-ldasgen
   version: "2.7.8"
   ldas_tools_al_version: 2.10.0
-  ldas_tools_cmake_version: 1.5.0
+  ldas_tools_cmake_version: 1.5.1
 
 package:
   name: ${{ name }}
